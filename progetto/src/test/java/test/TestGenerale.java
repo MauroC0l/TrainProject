@@ -105,7 +105,7 @@ public class TestGenerale {
             // 4.3 - ASSEGNAZIONE SERVIZIO (ad un vagone) : 
            // System.out.println("4.3 - ASSEGNAZIONE SERVIZIO");
            // trenoDAO.addServizio(trenoKM, 1, "bagno");
-                        
+                        //dsadsa
 
             // ACQUISTO DI UN TRENO
             // TODO: controllo da fare
